@@ -37,3 +37,13 @@ Este projeto utiliza o dataset Digit Recognizer do Kaggle para treinar uma Rede 
 
 1. Clone o repositório
 
+   ``` git clone https://github.com/luizcaixeta/digit-recognizer.git ```
+
+2. Execute o Jupyter Notebook:
+
+   ``` jupyter notebook notebooks/digit-recognizer.ipynb ```
+
+3. Siga a leitura do notebook.
+
+Após o treinamento este modelo alcançou 97.54% de acurácia e 0.7% de perda, resultado que considero satisfatório dada a quantidade de dados disponíveis para treino.
+
