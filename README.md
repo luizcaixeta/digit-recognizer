@@ -22,9 +22,16 @@ Este projeto utiliza o dataset Digit Recognizer do Kaggle para treinar uma Rede 
 4. Realização de previsões:
    + uso do modelo treinado para prever dígitos a partir das imagens de teste.
 
+     ![image](https://github.com/user-attachments/assets/a73f2762-1568-4bab-a4f3-6d1c02ff7c2f)
+
 5. Visualização dos Neurônios ativos:
    + extração das ativiações das camadas convolucionais durante a previsão.
    + visualização dos mapas de ativação para entender como a CNN reconhece os dígitos.
+  
+     Exemplo de ativação de neurônios para reconhecimento do número 2 na primeira camada:
+     
+     ![image](https://github.com/user-attachments/assets/443fad2b-405e-4864-9778-53acdab94089)
+
 
 ## Como executar o projeto
 
