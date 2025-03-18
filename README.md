@@ -12,6 +12,8 @@ Este projeto utiliza o dataset Digit Recognizer do Kaggle para treinar uma Rede 
 2. Construção do modelo CNN:
    + definição da arquitetura da CNN com camadas convolucionais, pooling e fully connected.
    + compilação do modelo com otimizador Adam e função de perda categorical_crossentropy
+
+     ![Captura de tela 2025-03-17 194734](https://github.com/user-attachments/assets/cea031db-bf78-4b97-8734-bd0081df2ee7)
   
 3. Treinamento do modelo:
    + treinamento da CNN com os dados de treino.
